@@ -1,5 +1,9 @@
 # Contact Manager - Full Stack MERN Application
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
 A modern, responsive Contact Management Dashboard built with the MERN stack (MongoDB, Express.js, React, Node.js). It features a clean, medical-dashboard-inspired UI with real-time search, alphabetical grouping, and smooth animations.
 
 ## 🚀 Features
