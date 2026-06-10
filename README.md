@@ -6,6 +6,8 @@
 
 
 
+
+
 A modern, responsive Contact Management Dashboard built with the MERN stack (MongoDB, Express.js, React, Node.js). It features a clean, medical-dashboard-inspired UI with real-time search, alphabetical grouping, and smooth animations.
 
 ## 🚀 Features
